@@ -1,0 +1,32 @@
+item {
+ id: 1
+ name: 'squirrel'
+}
+item {
+ id: 2
+ name: 'fox'
+}
+item {
+ id: 3
+ name: 'magpie'
+}
+item {
+ id: 4
+ name: 'pigeon'
+}
+item {
+ id: 5
+ name: 'seagull'
+}
+item {
+ id: 6
+ name: 'cat'
+}
+item {
+ id: 7
+ name: 'rat'
+}
+item {
+ id: 8
+ name: 'robin'
+}
